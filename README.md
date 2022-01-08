@@ -1,4 +1,4 @@
-# Command Line File Viewer
+# 🖵 Command Line File Viewer
 
 ## Usage
     python3 CLI_File_Viewer.py /path/to/txtfile/
