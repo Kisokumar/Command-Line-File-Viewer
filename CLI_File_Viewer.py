@@ -1,5 +1,3 @@
-from functions import typer
-from functions import cls
 import schedule
 import time
 import sys 
@@ -52,5 +50,3 @@ if __name__ == "__main__":
     cls()
     displaytype = str(input("'changes' or 'loop'\n\nType here: "))
     displayfile(file,displaytype)
-
-
